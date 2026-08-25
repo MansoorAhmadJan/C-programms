@@ -13,6 +13,9 @@ int main(){
        else{
        printf ("odd\n");
        }
+
+
+       
        
     }
     else{
