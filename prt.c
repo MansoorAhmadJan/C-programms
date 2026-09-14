@@ -5,7 +5,7 @@ int main(){
     int pamount=50;
     float interstrate=0.07;
 
-    int days =5;
+    int days =6;
 
     float simpleinterst=pamount*interstrate*days;
 
