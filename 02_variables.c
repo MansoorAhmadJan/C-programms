@@ -5,7 +5,7 @@ int main() {
     
     int age = 25;          
     float height = 5.9;   
-    char grade = 'A';      
+    char grade = 'A+';      
     
     
     printf("Age: %d\n", age);
