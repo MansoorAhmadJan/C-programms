@@ -3,7 +3,7 @@
 
 int main(){
 
-    float radius = 5;
+    float radius = 7;
     float pi = 3.14;
     float area;
 
