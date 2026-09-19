@@ -6,7 +6,7 @@ int main(){
 
     int a=6;
 
-    int b=8;
+    int b=12;
 
     a*=b;
 
