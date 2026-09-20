@@ -5,9 +5,9 @@
 int main (){
 
     int a,b,c;
-    a=2;
-    b=4;
-    c=6;
+    a=3;
+    b=6;
+    c=9;
 
     float average=(a+b+c)/3;
 
