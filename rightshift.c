@@ -1,7 +1,7 @@
 #include <stdio.h>
 int main(){
-    char var=3;
-    printf("%d",var<<1);
+    char var=8;
+    printf("%d",var<<5);
 
     return 0;
 
