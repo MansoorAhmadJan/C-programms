@@ -11,7 +11,7 @@ int main(){
     printf("enter the age\n");
 
     scanf("%d",&age);
-    if(age>25){
+    if(age>20){
         printf("adult,eligible to vote");
 
     }
