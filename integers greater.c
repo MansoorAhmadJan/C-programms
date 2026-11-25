@@ -8,9 +8,9 @@ scanf("%f %f %f",&a,&b,&c);
 
 if (a>b)
 {
-    /* code */if (a>c)
+    if (a>c)
     {
-        /* code */printf("a is largest value\n");
+    printf("a is largest value\n");
     }
     else{
         printf("c is largest\n");
